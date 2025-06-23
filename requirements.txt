@@ -1,0 +1,8 @@
+fastapi[standard]
+fastmcp
+torch
+transformers>=4.51.0
+pydantic
+googlesearch-python
+json-repair
+openai
